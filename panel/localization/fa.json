@@ -1,0 +1,17 @@
+{
+    "budgetingActualAmount": "مبلغ واقعی",
+    "budgetingAllocatedAmount": "مبلغ تخصیص‌یافته",
+    "budgetingBudget": "بودجه",
+    "budgetingBudgetLine": "ردیف بودجه",
+    "budgetingBudgetLines": "ردیف‌های بودجه",
+    "budgetingBudgeting": "بودجه‌بندی",
+    "budgetingBudgets": "بودجه‌ها",
+    "budgetingCode": "کد",
+    "budgetingCommittedAmount": "مبلغ تعهدشده",
+    "budgetingCurrency": "ارز",
+    "budgetingDescription": "توضیحات",
+    "budgetingFiscalPeriod": "دوره مالی",
+    "budgetingLineType": "نوع ردیف",
+    "budgetingStatus": "وضعیت",
+    "budgetingVariance": "انحراف"
+}

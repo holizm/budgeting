@@ -1,0 +1,50 @@
+budgetStatus options
+    draft
+    submitted
+    approved
+    active
+    closed
+    cancelled
+budgetLineType options
+    revenue
+    expense
+    capital
+budget
+    title
+    code
+    fiscalPeriod
+    currency
+    budgetStatus
+    description optional
+    unique code fiscalPeriod
+budgetLine
+    budget
+    title
+    budgetLineType
+    account optional
+    department optional
+    project optional
+    allocatedAmount realNumber
+    committedAmount realNumber optional
+    actualAmount realNumber optional
+budgetRevision
+    budget
+    revisionNumber integer
+    revisionDate
+    reason
+    previousAmount realNumber
+    revisedAmount realNumber
+    unique budget revisionNumber
+budgetTransfer
+    budget
+    sourceBudgetLine
+    destinationBudgetLine
+    amount realNumber
+    transferDate
+    reason
+budgetSnapshot
+    budget
+    snapshotDate
+    allocatedAmount realNumber
+    committedAmount realNumber
+    actualAmount realNumber

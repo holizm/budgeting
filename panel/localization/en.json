@@ -1,0 +1,17 @@
+{
+    "budgetingActualAmount": "Actual amount",
+    "budgetingAllocatedAmount": "Allocated amount",
+    "budgetingBudget": "Budget",
+    "budgetingBudgetLine": "Budget line",
+    "budgetingBudgetLines": "Budget lines",
+    "budgetingBudgeting": "Budgeting",
+    "budgetingBudgets": "Budgets",
+    "budgetingCode": "Code",
+    "budgetingCommittedAmount": "Committed amount",
+    "budgetingCurrency": "Currency",
+    "budgetingDescription": "Description",
+    "budgetingFiscalPeriod": "Fiscal period",
+    "budgetingLineType": "Line type",
+    "budgetingStatus": "Status",
+    "budgetingVariance": "Variance"
+}
