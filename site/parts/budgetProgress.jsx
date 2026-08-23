@@ -1,4 +1,4 @@
-export default ({ budgetLine }) => <dl class='budgetProgress'>
+export default ({ budgetLine }) => <dl class='progress'>
     <dt class='title'>{budgetLine.title}</dt>
     <dd class='allocatedAmount'>{budgetLine.allocatedAmount}</dd>
     <dd class='actualAmount'>{budgetLine.actualAmount}</dd>
