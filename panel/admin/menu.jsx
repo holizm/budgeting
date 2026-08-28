@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'accountBalanceWallet',
+        path: '/budgeting',
         title: 'budgetingBudgeting',
     },
 ]
