@@ -1,0 +1,4 @@
+[
+    { $match: { fiscalPeriod } },
+    { $count: 'count' },
+]

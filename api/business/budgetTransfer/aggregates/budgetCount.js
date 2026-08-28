@@ -1,0 +1,4 @@
+[
+    { $match: { budget } },
+    { $count: 'count' },
+]
