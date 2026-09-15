@@ -1,0 +1,26 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "actualAmount": "Actual amount",
+        "allocatedAmount": "Allocated amount",
+        "budget": "Budget",
+        "budgetLine": "Budget line",
+        "budgetLines": "Budget lines",
+        "budgeting": "Budgeting",
+        "budgets": "Budgets",
+        "code": "Code",
+        "committedAmount": "Committed amount",
+        "currency": "Currency",
+        "description": "Description",
+        "fiscalPeriod": "Fiscal period",
+        "lineType": "Line type",
+        "status": "Status",
+        "variance": "Variance"
+    },
+    "site": {
+        "actualAmount": "Actual amount",
+        "allocatedAmount": "Allocated amount",
+        "variance": "Variance"
+    }
+}
