@@ -1,9 +1,8 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "actualAmount": "Actual amount",
         "allocatedAmount": "Allocated amount",
+        "variance": "Variance",
         "budget": "Budget",
         "budgetLine": "Budget line",
         "budgetLines": "Budget lines",
@@ -15,12 +14,6 @@
         "description": "Description",
         "fiscalPeriod": "Fiscal period",
         "lineType": "Line type",
-        "status": "Status",
-        "variance": "Variance"
-    },
-    "site": {
-        "actualAmount": "Actual amount",
-        "allocatedAmount": "Allocated amount",
-        "variance": "Variance"
+        "status": "Status"
     }
 }

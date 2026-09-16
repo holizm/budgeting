@@ -1,9 +1,8 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "actualAmount": "مبلغ واقعی",
         "allocatedAmount": "مبلغ تخصیص‌یافته",
+        "variance": "انحراف",
         "budget": "بودجه",
         "budgetLine": "ردیف بودجه",
         "budgetLines": "ردیف‌های بودجه",
@@ -15,12 +14,6 @@
         "description": "توضیحات",
         "fiscalPeriod": "دوره مالی",
         "lineType": "نوع ردیف",
-        "status": "وضعیت",
-        "variance": "انحراف"
-    },
-    "site": {
-        "actualAmount": "مبلغ واقعی",
-        "allocatedAmount": "مبلغ تخصیص‌یافته",
-        "variance": "انحراف"
+        "status": "وضعیت"
     }
 }
