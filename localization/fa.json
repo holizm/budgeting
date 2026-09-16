@@ -8,12 +8,8 @@
         "budgetLines": "ردیف‌های بودجه",
         "budgeting": "بودجه‌بندی",
         "budgets": "بودجه‌ها",
-        "code": "کد",
         "committedAmount": "مبلغ تعهدشده",
-        "currency": "ارز",
-        "description": "توضیحات",
         "fiscalPeriod": "دوره مالی",
-        "lineType": "نوع ردیف",
-        "status": "وضعیت"
+        "lineType": "نوع ردیف"
     }
 }

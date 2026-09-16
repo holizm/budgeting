@@ -8,12 +8,8 @@
         "budgetLines": "Budget lines",
         "budgeting": "Budgeting",
         "budgets": "Budgets",
-        "code": "Code",
         "committedAmount": "Committed amount",
-        "currency": "Currency",
-        "description": "Description",
         "fiscalPeriod": "Fiscal period",
-        "lineType": "Line type",
-        "status": "Status"
+        "lineType": "Line type"
     }
 }
