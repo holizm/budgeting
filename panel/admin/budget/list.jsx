@@ -9,7 +9,7 @@ const headers = <>
     <th start>budgetingBudget</th>
     <th>budgetingCode</th>
     <th>budgetingFiscalPeriod</th>
-    <th>budgetingStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>

@@ -32,7 +32,7 @@ const inputs = <>
             'closed',
             'cancelled',
         ]}
-        placeholder='budgetingStatus'
+        placeholder='stateMachinesState'
         property='budgetStatus'
         required
     />
