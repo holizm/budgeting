@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "المبلغ الفعلي",
+        "allocatedAmount": "المبلغ المخصص",
+        "variance": "الانحراف",
+        "budget": "الميزانية",
+        "budgetLine": "بند الميزانية",
+        "budgetLines": "بنود الميزانية",
+        "budgeting": "إعداد الميزانية",
+        "budgets": "الميزانيات",
+        "committedAmount": "المبلغ الملتزم به",
+        "fiscalPeriod": "الفترة المالية",
+        "lineType": "نوع البند"
+    }
+}

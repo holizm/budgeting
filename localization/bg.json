@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Действителна сума",
+        "allocatedAmount": "Разпределена сума",
+        "variance": "Отклонение",
+        "budget": "Бюджет",
+        "budgetLine": "Бюджетен ред",
+        "budgetLines": "Бюджетни редове",
+        "budgeting": "Бюджетиране",
+        "budgets": "Бюджети",
+        "committedAmount": "Ангажирана сума",
+        "fiscalPeriod": "Финансов период",
+        "lineType": "Тип ред"
+    }
+}

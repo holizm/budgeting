@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Iye gangan",
+        "allocatedAmount": "Iye tí a pín",
+        "variance": "Ìyàtọ̀",
+        "budget": "Ìṣúná",
+        "budgetLine": "Ìlà ìṣúná",
+        "budgetLines": "Àwọn ìlà ìṣúná",
+        "budgeting": "Ṣíṣe ìṣúná",
+        "budgets": "Àwọn ìṣúná",
+        "committedAmount": "Iye tí a ti dá sí",
+        "fiscalPeriod": "Àkókò ìṣúná",
+        "lineType": "Irú ìlà"
+    }
+}

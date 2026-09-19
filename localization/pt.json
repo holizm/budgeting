@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Valor real",
+        "allocatedAmount": "Valor alocado",
+        "variance": "Variação",
+        "budget": "Orçamento",
+        "budgetLine": "Rubrica orçamental",
+        "budgetLines": "Rubricas orçamentais",
+        "budgeting": "Orçamentação",
+        "budgets": "Orçamentos",
+        "committedAmount": "Valor comprometido",
+        "fiscalPeriod": "Período fiscal",
+        "lineType": "Tipo de rubrica"
+    }
+}

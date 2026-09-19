@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Importo effettivo",
+        "allocatedAmount": "Importo stanziato",
+        "variance": "Scostamento",
+        "budget": "Budget",
+        "budgetLine": "Voce di budget",
+        "budgetLines": "Voci di budget",
+        "budgeting": "Definizione del budget",
+        "budgets": "Budget",
+        "committedAmount": "Importo impegnato",
+        "fiscalPeriod": "Periodo fiscale",
+        "lineType": "Tipo di voce"
+    }
+}

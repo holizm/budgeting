@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Toteutunut määrä",
+        "allocatedAmount": "Kohdennettu määrä",
+        "variance": "Poikkeama",
+        "budget": "Budjetti",
+        "budgetLine": "Budjettirivi",
+        "budgetLines": "Budjettirivit",
+        "budgeting": "Budjetointi",
+        "budgets": "Budjetit",
+        "committedAmount": "Sidottu määrä",
+        "fiscalPeriod": "Tilikausi",
+        "lineType": "Rivityyppi"
+    }
+}

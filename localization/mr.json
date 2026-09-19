@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "प्रत्यक्ष रक्कम",
+        "allocatedAmount": "वाटप केलेली रक्कम",
+        "variance": "तफावत",
+        "budget": "अर्थसंकल्प",
+        "budgetLine": "अर्थसंकल्पीय बाब",
+        "budgetLines": "अर्थसंकल्पीय बाबी",
+        "budgeting": "अर्थसंकल्प नियोजन",
+        "budgets": "अर्थसंकल्प",
+        "committedAmount": "वचनबद्ध रक्कम",
+        "fiscalPeriod": "आर्थिक कालावधी",
+        "lineType": "बाबीचा प्रकार"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Istbetrag",
+        "allocatedAmount": "Zugewiesener Betrag",
+        "variance": "Abweichung",
+        "budget": "Budget",
+        "budgetLine": "Budgetposition",
+        "budgetLines": "Budgetpositionen",
+        "budgeting": "Budgetierung",
+        "budgets": "Budgets",
+        "committedAmount": "Gebundener Betrag",
+        "fiscalPeriod": "Geschäftsperiode",
+        "lineType": "Positionstyp"
+    }
+}

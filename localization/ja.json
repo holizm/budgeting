@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "実績額",
+        "allocatedAmount": "配賦額",
+        "variance": "差異",
+        "budget": "予算",
+        "budgetLine": "予算明細",
+        "budgetLines": "予算明細",
+        "budgeting": "予算編成",
+        "budgets": "予算",
+        "committedAmount": "確定額",
+        "fiscalPeriod": "会計期間",
+        "lineType": "明細タイプ"
+    }
+}

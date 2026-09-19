@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Werkelijk bedrag",
+        "allocatedAmount": "Toegewezen bedrag",
+        "variance": "Afwijking",
+        "budget": "Budget",
+        "budgetLine": "Budgetregel",
+        "budgetLines": "Budgetregels",
+        "budgeting": "Budgettering",
+        "budgets": "Budgetten",
+        "committedAmount": "Vastgelegd bedrag",
+        "fiscalPeriod": "Boekhoudperiode",
+        "lineType": "Regeltype"
+    }
+}

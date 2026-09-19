@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Faktisk beløp",
+        "allocatedAmount": "Tildelt beløp",
+        "variance": "Avvik",
+        "budget": "Budsjett",
+        "budgetLine": "Budsjettpost",
+        "budgetLines": "Budsjettposter",
+        "budgeting": "Budsjettering",
+        "budgets": "Budsjetter",
+        "committedAmount": "Forpliktet beløp",
+        "fiscalPeriod": "Regnskapsperiode",
+        "lineType": "Posttype"
+    }
+}

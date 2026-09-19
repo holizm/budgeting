@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Amaun sebenar",
+        "allocatedAmount": "Amaun diperuntukkan",
+        "variance": "Varians",
+        "budget": "Belanjawan",
+        "budgetLine": "Baris belanjawan",
+        "budgetLines": "Baris belanjawan",
+        "budgeting": "Penganggaran",
+        "budgets": "Belanjawan",
+        "committedAmount": "Amaun dikomitkan",
+        "fiscalPeriod": "Tempoh fiskal",
+        "lineType": "Jenis baris"
+    }
+}

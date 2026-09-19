@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "จำนวนเงินจริง",
+        "allocatedAmount": "จำนวนเงินที่จัดสรร",
+        "variance": "ผลต่าง",
+        "budget": "งบประมาณ",
+        "budgetLine": "รายการงบประมาณ",
+        "budgetLines": "รายการงบประมาณ",
+        "budgeting": "การจัดทำงบประมาณ",
+        "budgets": "งบประมาณ",
+        "committedAmount": "จำนวนเงินผูกพัน",
+        "fiscalPeriod": "รอบบัญชี",
+        "lineType": "ประเภทรายการ"
+    }
+}

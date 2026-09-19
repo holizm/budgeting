@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "వాస్తవ మొత్తం",
+        "allocatedAmount": "కేటాయించిన మొత్తం",
+        "variance": "వ్యత్యాసం",
+        "budget": "బడ్జెట్",
+        "budgetLine": "బడ్జెట్ పద్దు",
+        "budgetLines": "బడ్జెట్ పద్దులు",
+        "budgeting": "బడ్జెట్ రూపకల్పన",
+        "budgets": "బడ్జెట్‌లు",
+        "committedAmount": "కట్టుబడి ఉన్న మొత్తం",
+        "fiscalPeriod": "ఆర్థిక కాలం",
+        "lineType": "పద్దు రకం"
+    }
+}

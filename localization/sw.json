@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Kiasi halisi",
+        "allocatedAmount": "Kiasi kilichotengwa",
+        "variance": "Tofauti",
+        "budget": "Bajeti",
+        "budgetLine": "Kipengee cha bajeti",
+        "budgetLines": "Vipengee vya bajeti",
+        "budgeting": "Utayarishaji wa bajeti",
+        "budgets": "Bajeti",
+        "committedAmount": "Kiasi kilichowekwa",
+        "fiscalPeriod": "Kipindi cha fedha",
+        "lineType": "Aina ya kipengee"
+    }
+}

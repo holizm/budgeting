@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Tényleges összeg",
+        "allocatedAmount": "Keretösszeg",
+        "variance": "Eltérés",
+        "budget": "Költségvetés",
+        "budgetLine": "Költségvetési tétel",
+        "budgetLines": "Költségvetési tételek",
+        "budgeting": "Költségvetés-tervezés",
+        "budgets": "Költségvetések",
+        "committedAmount": "Lekötött összeg",
+        "fiscalPeriod": "Pénzügyi időszak",
+        "lineType": "Tételtípus"
+    }
+}

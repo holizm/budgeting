@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "প্রকৃত পরিমাণ",
+        "allocatedAmount": "বরাদ্দকৃত পরিমাণ",
+        "variance": "পার্থক্য",
+        "budget": "বাজেট",
+        "budgetLine": "বাজেটের খাত",
+        "budgetLines": "বাজেটের খাতসমূহ",
+        "budgeting": "বাজেট প্রণয়ন",
+        "budgets": "বাজেটসমূহ",
+        "committedAmount": "প্রতিশ্রুত পরিমাণ",
+        "fiscalPeriod": "অর্থবছর",
+        "lineType": "খাতের ধরন"
+    }
+}

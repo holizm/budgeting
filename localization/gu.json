@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "વાસ્તવિક રકમ",
+        "allocatedAmount": "ફાળવેલી રકમ",
+        "variance": "તફાવત",
+        "budget": "બજેટ",
+        "budgetLine": "બજેટની કક્ષા",
+        "budgetLines": "બજેટની કક્ષાઓ",
+        "budgeting": "બજેટ આયોજન",
+        "budgets": "બજેટ",
+        "committedAmount": "પ્રતિબદ્ધ રકમ",
+        "fiscalPeriod": "નાણાકીય અવધિ",
+        "lineType": "કક્ષાનો પ્રકાર"
+    }
+}

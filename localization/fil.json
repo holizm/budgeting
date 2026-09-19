@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Aktuwal na halaga",
+        "allocatedAmount": "Inilaang halaga",
+        "variance": "Pagkakaiba",
+        "budget": "Badyet",
+        "budgetLine": "Linya ng badyet",
+        "budgetLines": "Mga linya ng badyet",
+        "budgeting": "Pagbabadyet",
+        "budgets": "Mga badyet",
+        "committedAmount": "Nakatalagang halaga",
+        "fiscalPeriod": "Panahong piskal",
+        "lineType": "Uri ng linya"
+    }
+}

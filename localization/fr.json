@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Montant réel",
+        "allocatedAmount": "Montant alloué",
+        "variance": "Écart",
+        "budget": "Budget",
+        "budgetLine": "Ligne budgétaire",
+        "budgetLines": "Lignes budgétaires",
+        "budgeting": "Budgétisation",
+        "budgets": "Budgets",
+        "committedAmount": "Montant engagé",
+        "fiscalPeriod": "Exercice comptable",
+        "lineType": "Type de ligne"
+    }
+}

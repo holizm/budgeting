@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "ವಾಸ್ತವ ಮೊತ್ತ",
+        "allocatedAmount": "ಹಂಚಿಕೆ ಮಾಡಿದ ಮೊತ್ತ",
+        "variance": "ವ್ಯತ್ಯಾಸ",
+        "budget": "ಬಜೆಟ್",
+        "budgetLine": "ಬಜೆಟ್ ಸಾಲು",
+        "budgetLines": "ಬಜೆಟ್ ಸಾಲುಗಳು",
+        "budgeting": "ಬಜೆಟ್ ರೂಪಿಸುವಿಕೆ",
+        "budgets": "ಬಜೆಟ್‌ಗಳು",
+        "committedAmount": "ಬದ್ಧ ಮೊತ್ತ",
+        "fiscalPeriod": "ಹಣಕಾಸು ಅವಧಿ",
+        "lineType": "ಸಾಲಿನ ಪ್ರಕಾರ"
+    }
+}

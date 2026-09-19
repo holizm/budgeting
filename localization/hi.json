@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "वास्तविक राशि",
+        "allocatedAmount": "आवंटित राशि",
+        "variance": "अंतर",
+        "budget": "बजट",
+        "budgetLine": "बजट मद",
+        "budgetLines": "बजट मदें",
+        "budgeting": "बजट निर्धारण",
+        "budgets": "बजट",
+        "committedAmount": "प्रतिबद्ध राशि",
+        "fiscalPeriod": "वित्तीय अवधि",
+        "lineType": "मद का प्रकार"
+    }
+}

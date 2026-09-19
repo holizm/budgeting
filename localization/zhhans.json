@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "实际金额",
+        "allocatedAmount": "分配金额",
+        "variance": "差异",
+        "budget": "预算",
+        "budgetLine": "预算项目",
+        "budgetLines": "预算项目",
+        "budgeting": "预算编制",
+        "budgets": "预算",
+        "committedAmount": "承诺金额",
+        "fiscalPeriod": "会计期间",
+        "lineType": "项目类型"
+    }
+}

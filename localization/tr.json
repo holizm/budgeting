@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Gerçekleşen tutar",
+        "allocatedAmount": "Tahsis edilen tutar",
+        "variance": "Sapma",
+        "budget": "Bütçe",
+        "budgetLine": "Bütçe kalemi",
+        "budgetLines": "Bütçe kalemleri",
+        "budgeting": "Bütçeleme",
+        "budgets": "Bütçeler",
+        "committedAmount": "Taahhüt edilen tutar",
+        "fiscalPeriod": "Mali dönem",
+        "lineType": "Kalem türü"
+    }
+}

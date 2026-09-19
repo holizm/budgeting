@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "סכום בפועל",
+        "allocatedAmount": "סכום מוקצה",
+        "variance": "שונות",
+        "budget": "תקציב",
+        "budgetLine": "סעיף תקציב",
+        "budgetLines": "סעיפי תקציב",
+        "budgeting": "תקצוב",
+        "budgets": "תקציבים",
+        "committedAmount": "סכום מחויב",
+        "fiscalPeriod": "תקופה חשבונאית",
+        "lineType": "סוג סעיף"
+    }
+}

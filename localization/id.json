@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Jumlah aktual",
+        "allocatedAmount": "Jumlah yang dialokasikan",
+        "variance": "Varians",
+        "budget": "Anggaran",
+        "budgetLine": "Baris anggaran",
+        "budgetLines": "Baris anggaran",
+        "budgeting": "Penganggaran",
+        "budgets": "Anggaran",
+        "committedAmount": "Jumlah yang telah dikomitmenkan",
+        "fiscalPeriod": "Periode fiskal",
+        "lineType": "Jenis baris"
+    }
+}

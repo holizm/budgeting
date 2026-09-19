@@ -1,0 +1,15 @@
+{
+    "common": {
+        "actualAmount": "Số tiền thực tế",
+        "allocatedAmount": "Số tiền được phân bổ",
+        "variance": "Chênh lệch",
+        "budget": "Ngân sách",
+        "budgetLine": "Dòng ngân sách",
+        "budgetLines": "Các dòng ngân sách",
+        "budgeting": "Lập ngân sách",
+        "budgets": "Ngân sách",
+        "committedAmount": "Số tiền đã cam kết",
+        "fiscalPeriod": "Kỳ tài chính",
+        "lineType": "Loại dòng"
+    }
+}
