@@ -8,7 +8,7 @@ import Form from './form'
 const headers = <>
     <th start>budgetingBudget</th>
     <th>budgetingCode</th>
-    <th>budgetingFiscalPeriod</th>
+    <th>coreFiscalPeriod</th>
     <th>stateMachinesState</th>
 </>
 

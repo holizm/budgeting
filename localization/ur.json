@@ -2,14 +2,13 @@
     "common": {
         "actualAmount": "اصل رقم",
         "allocatedAmount": "مختص رقم",
-        "variance": "فرق",
         "budget": "بجٹ",
         "budgetLine": "بجٹ مد",
         "budgetLines": "بجٹ مدات",
         "budgeting": "بجٹ سازی",
         "budgets": "بجٹ",
         "committedAmount": "مختص شدہ رقم",
-        "fiscalPeriod": "مالی مدت",
-        "lineType": "مد کی قسم"
+        "lineType": "مد کی قسم",
+        "variance": "فرق"
     }
 }

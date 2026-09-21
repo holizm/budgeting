@@ -14,7 +14,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='budgetingFiscalPeriod'
+        placeholder='coreFiscalPeriod'
         property='fiscalPeriod'
         required
     />

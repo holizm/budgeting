@@ -2,14 +2,13 @@
     "common": {
         "actualAmount": "Sumă efectivă",
         "allocatedAmount": "Sumă alocată",
-        "variance": "Abatere",
         "budget": "Buget",
         "budgetLine": "Linie bugetară",
         "budgetLines": "Linii bugetare",
         "budgeting": "Bugetare",
         "budgets": "Bugete",
         "committedAmount": "Sumă angajată",
-        "fiscalPeriod": "Perioadă fiscală",
-        "lineType": "Tip de linie"
+        "lineType": "Tip de linie",
+        "variance": "Abatere"
     }
 }

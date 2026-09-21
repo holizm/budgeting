@@ -2,14 +2,13 @@
     "common": {
         "actualAmount": "مبلغ واقعی",
         "allocatedAmount": "مبلغ تخصیص‌یافته",
-        "variance": "انحراف",
         "budget": "بودجه",
         "budgetLine": "ردیف بودجه",
         "budgetLines": "ردیف‌های بودجه",
         "budgeting": "بودجه‌بندی",
         "budgets": "بودجه‌ها",
         "committedAmount": "مبلغ تعهدشده",
-        "fiscalPeriod": "دوره مالی",
-        "lineType": "نوع ردیف"
+        "lineType": "نوع ردیف",
+        "variance": "انحراف"
     }
 }
