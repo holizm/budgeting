@@ -1,6 +1,6 @@
 export default <>
-    <th start>budgetingBudget</th>
-    <th>budgetingCode</th>
-    <th>coreFiscalPeriod</th>
-    <th>stateMachinesState</th>
+    <th start>budget</th>
+    <th>code</th>
+    <th>fiscalPeriod</th>
+    <th>state</th>
 </>

@@ -8,7 +8,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='budgetingBudget'
+        placeholder='budget'
         property='budget'
         required
     />
@@ -19,21 +19,21 @@ const inputs = <>
             'expense',
             'capital',
         ]}
-        placeholder='budgetingLineType'
+        placeholder='lineType'
         property='budgetLineType'
         required
     />
     <Numeric
-        placeholder='budgetingAllocatedAmount'
+        placeholder='allocatedAmount'
         property='allocatedAmount'
         required
     />
     <Numeric
-        placeholder='budgetingCommittedAmount'
+        placeholder='committedAmount'
         property='committedAmount'
     />
     <Numeric
-        placeholder='budgetingActualAmount'
+        placeholder='actualAmount'
         property='actualAmount'
     />
 </>

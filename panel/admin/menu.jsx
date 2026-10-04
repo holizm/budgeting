@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/budgeting/budget/list',
-                title: 'budgetingBudgets',
+                title: 'budgets',
             },
             {
                 path: '/budgeting/budgetLine/list',
-                title: 'budgetingBudgetLines',
+                title: 'budgetLines',
             },
         ],
         icon: 'accountBalanceWallet',
         path: '/budgeting',
-        title: 'budgetingBudgeting',
+        title: 'budgeting',
     },
 ]

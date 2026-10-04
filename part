@@ -17,6 +17,8 @@ budget
     budgetStatus
     description optional
     unique code fiscalPeriod
+    uses
+        stateMachines
 budgetLine
     budget
     title

@@ -9,17 +9,17 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='budgetingCode'
+        placeholder='code'
         property='code'
         required
     />
     <Text
-        placeholder='coreFiscalPeriod'
+        placeholder='fiscalPeriod'
         property='fiscalPeriod'
         required
     />
     <Text
-        placeholder='budgetingCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
@@ -32,12 +32,12 @@ const inputs = <>
             'closed',
             'cancelled',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='budgetStatus'
         required
     />
     <LongText
-        placeholder='budgetingDescription'
+        placeholder='description'
         property='description'
     />
 </>
