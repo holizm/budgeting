@@ -9,21 +9,19 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
     <Text
-        placeholder='fiscalPeriod'
-        property='fiscalPeriod'
+        fiscalPeriod
         required
     />
     <Text
-        placeholder='currency'
-        property='currency'
+        currency
         required
     />
     <Select
+        budgetStatus
         options={[
             'draft',
             'submitted',
@@ -33,13 +31,9 @@ const inputs = <>
             'cancelled',
         ]}
         placeholder='state'
-        property='budgetStatus'
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

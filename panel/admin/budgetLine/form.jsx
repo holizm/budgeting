@@ -8,34 +8,26 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='budget'
-        property='budget'
+        budget
         required
     />
     <Title />
     <Select
+        budgetLineType
         options={[
             'revenue',
             'expense',
             'capital',
         ]}
         placeholder='lineType'
-        property='budgetLineType'
         required
     />
     <Numeric
-        placeholder='allocatedAmount'
-        property='allocatedAmount'
+        allocatedAmount
         required
     />
-    <Numeric
-        placeholder='committedAmount'
-        property='committedAmount'
-    />
-    <Numeric
-        placeholder='actualAmount'
-        property='actualAmount'
-    />
+    <Numeric committedAmount />
+    <Numeric actualAmount />
 </>
 
 export default <DialogForm inputs={inputs} />
