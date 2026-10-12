@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "실제 금액",
-        "allocatedAmount": "배정 금액",
         "budget": "예산",
         "budgetLine": "예산 항목",
         "budgetLines": "예산 항목",
         "budgeting": "예산 편성",
         "budgets": "예산",
-        "committedAmount": "약정 금액",
-        "lineType": "항목 유형",
-        "variance": "차이"
+        "lineType": "항목 유형"
     }
 }

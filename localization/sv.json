@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Faktiskt belopp",
-        "allocatedAmount": "Tilldelat belopp",
         "budget": "Budget",
         "budgetLine": "Budgetpost",
         "budgetLines": "Budgetposter",
         "budgeting": "Budgetering",
         "budgets": "Budgetar",
-        "committedAmount": "Bundet belopp",
-        "lineType": "Posttyp",
-        "variance": "Avvikelse"
+        "lineType": "Posttyp"
     }
 }

@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Ainihin adadi",
-        "allocatedAmount": "Adadin da aka ware",
         "budget": "Kasafin kuɗi",
         "budgetLine": "Layin kasafin kuɗi",
         "budgetLines": "Layukan kasafin kuɗi",
         "budgeting": "Tsara kasafin kuɗi",
         "budgets": "Kasafin kuɗi",
-        "committedAmount": "Adadin da aka ɗaure",
-        "lineType": "Nau’in layi",
-        "variance": "Bambanci"
+        "lineType": "Nau’in layi"
     }
 }

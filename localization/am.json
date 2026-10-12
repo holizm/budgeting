@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "ትክክለኛ መጠን",
-        "allocatedAmount": "የተመደበ መጠን",
         "budget": "በጀት",
         "budgetLine": "የበጀት መስመር",
         "budgetLines": "የበጀት መስመሮች",
         "budgeting": "በጀት ማዘጋጀት",
         "budgets": "በጀቶች",
-        "committedAmount": "የተያዘ መጠን",
-        "lineType": "የመስመር ዓይነት",
-        "variance": "ልዩነት"
+        "lineType": "የመስመር ዓይነት"
     }
 }

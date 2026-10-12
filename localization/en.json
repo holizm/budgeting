@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Actual amount",
-        "allocatedAmount": "Allocated amount",
         "budget": "Budget",
         "budgetLine": "Budget line",
         "budgetLines": "Budget lines",
         "budgeting": "Budgeting",
         "budgets": "Budgets",
-        "committedAmount": "Committed amount",
-        "lineType": "Line type",
-        "variance": "Variance"
+        "lineType": "Line type"
     }
 }

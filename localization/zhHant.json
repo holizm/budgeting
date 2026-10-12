@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "實際金額",
-        "allocatedAmount": "分配金額",
         "budget": "預算",
         "budgetLine": "預算項目",
         "budgetLines": "預算項目",
         "budgeting": "預算編製",
         "budgets": "預算",
-        "committedAmount": "承諾金額",
-        "lineType": "項目類型",
-        "variance": "差異"
+        "lineType": "項目類型"
     }
 }

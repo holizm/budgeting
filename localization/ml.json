@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "യഥാർത്ഥ തുക",
-        "allocatedAmount": "അനുവദിച്ച തുക",
         "budget": "ബജറ്റ്",
         "budgetLine": "ബജറ്റ് ഇനം",
         "budgetLines": "ബജറ്റ് ഇനങ്ങൾ",
         "budgeting": "ബജറ്റ് തയ്യാറാക്കൽ",
         "budgets": "ബജറ്റുകൾ",
-        "committedAmount": "പ്രതിബദ്ധ തുക",
-        "lineType": "ഇനത്തിന്റെ തരം",
-        "variance": "വ്യത്യാസം"
+        "lineType": "ഇനത്തിന്റെ തരം"
     }
 }

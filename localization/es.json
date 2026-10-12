@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Importe real",
-        "allocatedAmount": "Importe asignado",
         "budget": "Presupuesto",
         "budgetLine": "Partida presupuestaria",
         "budgetLines": "Partidas presupuestarias",
         "budgeting": "Elaboración de presupuestos",
         "budgets": "Presupuestos",
-        "committedAmount": "Importe comprometido",
-        "lineType": "Tipo de partida",
-        "variance": "Desviación"
+        "lineType": "Tipo de partida"
     }
 }

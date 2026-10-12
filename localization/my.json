@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "အမှန်တကယ် ပမာဏ",
-        "allocatedAmount": "ခွဲဝေထားသည့် ပမာဏ",
         "budget": "ဘတ်ဂျက်",
         "budgetLine": "ဘတ်ဂျက် အကြောင်းအရာ",
         "budgetLines": "ဘတ်ဂျက် အကြောင်းအရာများ",
         "budgeting": "ဘတ်ဂျက်ရေးဆွဲခြင်း",
         "budgets": "ဘတ်ဂျက်များ",
-        "committedAmount": "ကတိပြုထားသည့် ပမာဏ",
-        "lineType": "အကြောင်းအရာ အမျိုးအစား",
-        "variance": "ကွာခြားချက်"
+        "lineType": "အကြောင်းအရာ အမျိုးအစား"
     }
 }

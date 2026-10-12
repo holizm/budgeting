@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Πραγματικό ποσό",
-        "allocatedAmount": "Κατανεμημένο ποσό",
         "budget": "Προϋπολογισμός",
         "budgetLine": "Γραμμή προϋπολογισμού",
         "budgetLines": "Γραμμές προϋπολογισμού",
         "budgeting": "Κατάρτιση προϋπολογισμού",
         "budgets": "Προϋπολογισμοί",
-        "committedAmount": "Δεσμευμένο ποσό",
-        "lineType": "Τύπος γραμμής",
-        "variance": "Απόκλιση"
+        "lineType": "Τύπος γραμμής"
     }
 }

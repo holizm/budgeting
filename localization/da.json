@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Faktisk beløb",
-        "allocatedAmount": "Tildelt beløb",
         "budget": "Budget",
         "budgetLine": "Budgetpost",
         "budgetLines": "Budgetposter",
         "budgeting": "Budgettering",
         "budgets": "Budgetter",
-        "committedAmount": "Forpligtet beløb",
-        "lineType": "Posttype",
-        "variance": "Afvigelse"
+        "lineType": "Posttype"
     }
 }

@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Kwota rzeczywista",
-        "allocatedAmount": "Kwota przydzielona",
         "budget": "Budżet",
         "budgetLine": "Pozycja budżetowa",
         "budgetLines": "Pozycje budżetowe",
         "budgeting": "Budżetowanie",
         "budgets": "Budżety",
-        "committedAmount": "Kwota zaangażowana",
-        "lineType": "Typ pozycji",
-        "variance": "Odchylenie"
+        "lineType": "Typ pozycji"
     }
 }

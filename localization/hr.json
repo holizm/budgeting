@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Stvarni iznos",
-        "allocatedAmount": "Dodijeljeni iznos",
         "budget": "Proračun",
         "budgetLine": "Proračunska stavka",
         "budgetLines": "Proračunske stavke",
         "budgeting": "Izrada proračuna",
         "budgets": "Proračuni",
-        "committedAmount": "Obvezani iznos",
-        "lineType": "Vrsta stavke",
-        "variance": "Odstupanje"
+        "lineType": "Vrsta stavke"
     }
 }

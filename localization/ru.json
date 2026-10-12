@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Фактическая сумма",
-        "allocatedAmount": "Выделенная сумма",
         "budget": "Бюджет",
         "budgetLine": "Статья бюджета",
         "budgetLines": "Статьи бюджета",
         "budgeting": "Бюджетирование",
         "budgets": "Бюджеты",
-        "committedAmount": "Зарезервированная сумма",
-        "lineType": "Тип статьи",
-        "variance": "Отклонение"
+        "lineType": "Тип статьи"
     }
 }

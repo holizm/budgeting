@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "المبلغ الفعلي",
-        "allocatedAmount": "المبلغ المخصص",
         "budget": "الميزانية",
         "budgetLine": "بند الميزانية",
         "budgetLines": "بنود الميزانية",
         "budgeting": "إعداد الميزانية",
         "budgets": "الميزانيات",
-        "committedAmount": "المبلغ الملتزم به",
-        "lineType": "نوع البند",
-        "variance": "الانحراف"
+        "lineType": "نوع البند"
     }
 }

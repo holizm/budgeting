@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Стварни износ",
-        "allocatedAmount": "Додељени износ",
         "budget": "Буџет",
         "budgetLine": "Буџетска ставка",
         "budgetLines": "Буџетске ставке",
         "budgeting": "Буџетирање",
         "budgets": "Буџети",
-        "committedAmount": "Обавезани износ",
-        "lineType": "Врста ставке",
-        "variance": "Одступање"
+        "lineType": "Врста ставке"
     }
 }

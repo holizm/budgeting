@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Werklike bedrag",
-        "allocatedAmount": "Toegekende bedrag",
         "budget": "Begroting",
         "budgetLine": "Begrotingslyn",
         "budgetLines": "Begrotingslyne",
         "budgeting": "Begroting opstel",
         "budgets": "Begrotings",
-        "committedAmount": "Verpligte bedrag",
-        "lineType": "Lyntipe",
-        "variance": "Afwyking"
+        "lineType": "Lyntipe"
     }
 }

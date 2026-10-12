@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Istbetrag",
-        "allocatedAmount": "Zugewiesener Betrag",
         "budget": "Budget",
         "budgetLine": "Budgetposition",
         "budgetLines": "Budgetpositionen",
         "budgeting": "Budgetierung",
         "budgets": "Budgets",
-        "committedAmount": "Gebundener Betrag",
-        "lineType": "Positionstyp",
-        "variance": "Abweichung"
+        "lineType": "Positionstyp"
     }
 }

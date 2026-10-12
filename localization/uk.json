@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Фактична сума",
-        "allocatedAmount": "Розподілена сума",
         "budget": "Бюджет",
         "budgetLine": "Стаття бюджету",
         "budgetLines": "Статті бюджету",
         "budgeting": "Бюджетування",
         "budgets": "Бюджети",
-        "committedAmount": "Зарезервована сума",
-        "lineType": "Тип статті",
-        "variance": "Відхилення"
+        "lineType": "Тип статті"
     }
 }

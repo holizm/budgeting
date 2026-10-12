@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Gerçekleşen tutar",
-        "allocatedAmount": "Tahsis edilen tutar",
         "budget": "Bütçe",
         "budgetLine": "Bütçe kalemi",
         "budgetLines": "Bütçe kalemleri",
         "budgeting": "Bütçeleme",
         "budgets": "Bütçeler",
-        "committedAmount": "Taahhüt edilen tutar",
-        "lineType": "Kalem türü",
-        "variance": "Sapma"
+        "lineType": "Kalem türü"
     }
 }

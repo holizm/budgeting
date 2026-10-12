@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Действителна сума",
-        "allocatedAmount": "Разпределена сума",
         "budget": "Бюджет",
         "budgetLine": "Бюджетен ред",
         "budgetLines": "Бюджетни редове",
         "budgeting": "Бюджетиране",
         "budgets": "Бюджети",
-        "committedAmount": "Ангажирана сума",
-        "lineType": "Тип ред",
-        "variance": "Отклонение"
+        "lineType": "Тип ред"
     }
 }

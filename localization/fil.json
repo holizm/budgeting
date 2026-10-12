@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Aktuwal na halaga",
-        "allocatedAmount": "Inilaang halaga",
         "budget": "Badyet",
         "budgetLine": "Linya ng badyet",
         "budgetLines": "Mga linya ng badyet",
         "budgeting": "Pagbabadyet",
         "budgets": "Mga badyet",
-        "committedAmount": "Nakatalagang halaga",
-        "lineType": "Uri ng linya",
-        "variance": "Pagkakaiba"
+        "lineType": "Uri ng linya"
     }
 }

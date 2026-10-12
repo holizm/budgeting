@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Importo effettivo",
-        "allocatedAmount": "Importo stanziato",
         "budget": "Budget",
         "budgetLine": "Voce di budget",
         "budgetLines": "Voci di budget",
         "budgeting": "Definizione del budget",
         "budgets": "Budget",
-        "committedAmount": "Importo impegnato",
-        "lineType": "Tipo di voce",
-        "variance": "Scostamento"
+        "lineType": "Tipo di voce"
     }
 }

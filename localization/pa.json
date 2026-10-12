@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "ਅਸਲ ਰਕਮ",
-        "allocatedAmount": "ਵੰਡੀ ਗਈ ਰਕਮ",
         "budget": "ਬਜਟ",
         "budgetLine": "ਬਜਟ ਮਦ",
         "budgetLines": "ਬਜਟ ਮਦਾਂ",
         "budgeting": "ਬਜਟ ਬਣਾਉਣਾ",
         "budgets": "ਬਜਟ",
-        "committedAmount": "ਵਚਨਬੱਧ ਰਕਮ",
-        "lineType": "ਮਦ ਦੀ ਕਿਸਮ",
-        "variance": "ਅੰਤਰ"
+        "lineType": "ਮਦ ਦੀ ਕਿਸਮ"
     }
 }

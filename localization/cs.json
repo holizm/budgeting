@@ -1,14 +1,10 @@
 {
     "common": {
-        "actualAmount": "Skutečná částka",
-        "allocatedAmount": "Přidělená částka",
         "budget": "Rozpočet",
         "budgetLine": "Rozpočtová položka",
         "budgetLines": "Rozpočtové položky",
         "budgeting": "Rozpočtování",
         "budgets": "Rozpočty",
-        "committedAmount": "Vázaná částka",
-        "lineType": "Typ položky",
-        "variance": "Odchylka"
+        "lineType": "Typ položky"
     }
 }
